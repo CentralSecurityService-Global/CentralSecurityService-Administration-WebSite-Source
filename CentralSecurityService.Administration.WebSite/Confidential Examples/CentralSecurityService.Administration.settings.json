@@ -1,0 +1,17 @@
+{
+  "CentralSecurityServiceAdministration": {
+    "Database": {
+      "DatabaseServer": "",
+      "DatabaseName": "",
+      "DatabaseSchema": "",
+      "ApplicationName": "",
+      "UserName": "",
+      "Password": ""
+    },
+    "GoogleReCaptcha": {
+      "SiteKey": "",
+      "Secret": "",
+      "MinimumScore": 0.5
+    }
+  }
+}
